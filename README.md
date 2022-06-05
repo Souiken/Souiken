@@ -42,3 +42,5 @@ I can't do what you want because I'm not a coffee maker.
 [![](https://img.shields.io/badge/BakaXL%20Help%20Docs-4e9eee?style=flat-square)](http://BakaXL.ml/)
 
 [![](https://img.shields.io/badge/\杰帕斯/%20\杰帕斯/%20\杰帕斯/%20\杰帕斯/-b?style=flat-square)](https://japerz.com/)
+
+![](https://img.shields.io/badge/\凯伦/%20\凯伦/%20\凯伦/%20\凯伦/-FFB536?style=flat-square)
