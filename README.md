@@ -33,8 +33,9 @@ I can't do what you want because I'm not a coffee maker.
 [![](https://img.shields.io/badge/Souiken-blue?style=flat-square&logo=bilibili&logoColor=ffffff)](https://bilibili.com/)
 [![](https://img.shields.io/badge/Souiken-blue?style=flat-square&logo=pixiv&logoColor=ffffff)](https://pixiv.net/)
 [![](https://img.shields.io/badge/@Souiken233-blue?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/)
-[![](https://img.shields.io/badge/3100750659-red?style=flat-square&logo=tencentqq&logoColor=ffffff)](https://qq.com/)
+[![](https://img.shields.io/badge/3100750659-EB1923?style=flat-square&logo=tencentqq&logoColor=ffffff)](https://qq.com/)
 [![](https://img.shields.io/badge/cnmnmslnmzlwdnmd@outlook.com-blue?style=flat-square&logo=microsoftoutlook&logoColor=ffffff)](https://outlook.com/)
+[![](https://img.shields.io/badge/Souiken.CN@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=ffffff)](https://mail.google.com/)
 
 ## Others
 [![](https://img.shields.io/badge/Nerver%20gonna%20give%20you%20up.-red?style=flat-square&logo=youtube&logoColor=ffffff)](http://vdse.bdstatic.com/192d9a98d782d9c74c96f09db9378d93.mp4)
