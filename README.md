@@ -1,5 +1,5 @@
 # I'm Souiken
-I'm a HAM(Radio Amateur), and I'm a Baka.
+I'm a HAM(Radio Amateur), and I'm a Baka. 
 
 ## Platform&Tools
 
@@ -10,7 +10,6 @@ I'm a HAM(Radio Amateur), and I'm a Baka.
 [![](https://img.shields.io/badge/Android-1.0-b?style=flat-square&logo=android&logoColor=ffffff)](https://www.android.com/android-1/)
 
 [![](https://img.shields.io/badge/Huawei-Nova%206%20Pro-red?style=flat-square&logo=huawei&logoColor=ffffff)](https://huawei.com)
-[![](https://img.shields.io/badge/Oneplus-10%20Pro-f5010c?style=flat-square&logo=oneplus&logoColor=ffffff)](https://oneplus.com)
 [![](https://img.shields.io/badge/iPhone-5S-999999?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/)
 
 [![](https://img.shields.io/badge/Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff)](https://code.visualstudio.com/)
@@ -36,11 +35,26 @@ I'm a HAM(Radio Amateur), and I'm a Baka.
 [![](https://img.shields.io/badge/cnmnmslnmzlwdnmd@outlook.com-blue?style=flat-square&logo=microsoftoutlook&logoColor=ffffff)](https://outlook.com/)
 [![](https://img.shields.io/badge/Souiken.CN@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=ffffff)](https://mail.google.com/)
 
-## Others
-[![](https://img.shields.io/badge/Nerver%20gonna%20give%20you%20up.-red?style=flat-square&logo=youtube&logoColor=ffffff)](http://vdse.bdstatic.com/192d9a98d782d9c74c96f09db9378d93.mp4)
-
+## Exchange Link
 [![](https://img.shields.io/badge/BakaXL%20Help%20Docs-4e9eee?style=flat-square)](http://BakaXL.ml/)
+[![](https://img.shields.io/badge/Japerz-b?style=flat-square)](https://japerz.com/)
 
-[![](https://img.shields.io/badge/\杰帕斯/%20\杰帕斯/%20\杰帕斯/%20\杰帕斯/-b?style=flat-square)](https://japerz.com/)
 
-![](https://img.shields.io/badge/\凯伦/%20\凯伦/%20\凯伦/%20\凯伦/-FFB536?style=flat-square)
+## Keys
+Souiken's GPG public Key
+>
+>-----BEGIN PGP PUBLIC KEY BLOCK-----
+>
+>mDMEY4SHYBYJKwYBBAHaRw8BAQdAwdBCRo7CxKW+SoMVwz8SR9IjAIRQGDrNOjvV
+>bNIu2uq0GFNvdWlrZW4gPFNvdWlrZW5AcXEuY29tPoiZBBMWCgBBFiEEVdSmEVLR
+>DcA9OfkvqKW9i+lH1vsFAmOEh2ACGwMFCQPDY2AFCwkIBwICIgIGFQoJCAsCBBYC
+>AwECHgcCF4AACgkQqKW9i+lH1vu6WAD9HKHwX/+VkWmBGmRE4ydTAnmFTz20okv7
+>xq3U0DRveZkBAKF1VvyMBVtimHq3l3gUrUolp7q/7iOyRcDSPM7cHOAAuDgEY4SH
+>YBIKKwYBBAGXVQEFAQEHQGX 6Kolx+CqqUT+8sT/+lHx2MIa5/GOpolAz+tuj8OqYw
+>AwEIB4h+BBgWCgAmFiEEVdSmEVLRDcA9OfkvqKW9i+lH1vsFAmOEh2ACGwwFCQPD
+>Y2AACgkQqKW9i+lH1vuNvQD+MSM9x9b+h8IVu19VfbR/lC5akaoi99GA5tfgyYxY
+>nYEA/14xQPb7UH1wP8IA9Jm9/Zr0bfxKSNsBGV9Z6NIuFacB
+>=eWHG
+>
+>-----END PGP PUBLIC KEY BLOCK-----
+>
