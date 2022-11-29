@@ -1,6 +1,5 @@
-# 418 I'm a teapot.
-I can't do what you want because I'm not a coffee maker.
-<div align="center" ><img order-radius="100px" src="https://s1.328888.xyz/2022/06/04/W5vYg.jpg"/></div>
+# I'm Souiken
+I'm a HAM(Radio Amateur), and I'm a Baka.
 
 ## Platform&Tools
 
