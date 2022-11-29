@@ -30,7 +30,7 @@ I'm a HAM(Radio Amateur), and I'm a Baka.
 
 [![](https://img.shields.io/badge/Souiken-blue?style=flat-square&logo=bilibili&logoColor=ffffff)](https://bilibili.com/)
 [![](https://img.shields.io/badge/Souiken-blue?style=flat-square&logo=pixiv&logoColor=ffffff)](https://pixiv.net/)
-[![](https://img.shields.io/badge/@Souiken233-blue?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/)
+[![](https://img.shields.io/badge/@Souiken.CN-blue?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/)
 [![](https://img.shields.io/badge/3100750659-EB1923?style=flat-square&logo=tencentqq&logoColor=ffffff)](https://qq.com/)
 [![](https://img.shields.io/badge/cnmnmslnmzlwdnmd@outlook.com-blue?style=flat-square&logo=microsoftoutlook&logoColor=ffffff)](https://outlook.com/)
 [![](https://img.shields.io/badge/Souiken.CN@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=ffffff)](https://mail.google.com/)
