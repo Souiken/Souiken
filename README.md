@@ -41,4 +41,5 @@ I'm a HAM(Radio Amateur), and I'm a Baka.
 
 
 ## Keys
-[Souiken's GPG public Key](https://github.com/Souiken.gpg)
+[Souiken's GPG public Key-Github](https://github.com/Souiken.gpg)
+[Souiken's GPG public Key-Ubuntu keyserver]([https://github.com/Souiken.gpg](https://keyserver.ubuntu.com/pks/lookup?search=souiken%40qq.com&fingerprint=on&op=index))
