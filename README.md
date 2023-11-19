@@ -1,8 +1,7 @@
 # I'm Souiken
 A simple Student, Transgender, Programmer as well as Unfamous-Writer.
 
-![](https://count.getloli.com/get/@Souiken?theme=moebooru)
-
+![souiken](https://count.getloli.com/get/@souiken?theme=moebooru)
 ## Platform&Tools
 
 [![](https://img.shields.io/badge/Github-Souiken-black?style=flat-square&logo=github&logoColor=ffffff)](https://github.com/Souiken/)
